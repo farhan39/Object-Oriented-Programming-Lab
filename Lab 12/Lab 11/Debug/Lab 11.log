@@ -1,0 +1,12 @@
+﻿Build started 5/18/2022 8:59:24 PM.
+     1>Project "C:\Users\hp\Desktop\Lab 12\Lab 11\Lab 11.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "L21-5247.cpp"
+         L21-5247.cpp
+     1>c:\users\hp\desktop\lab 12\lab 11\l21-5247.cpp(53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\hp\desktop\lab 12\lab 11\l21-5247.cpp(53): error C2143: syntax error : missing ',' before '<'
+     1>Done Building Project "C:\Users\hp\Desktop\Lab 12\Lab 11\Lab 11.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.66
